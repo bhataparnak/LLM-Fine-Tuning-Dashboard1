@@ -7,5 +7,7 @@ Install Node Js
 Install NPM
 
 To run the app: - npm i
+
 npm start
+
 npm run dev
