@@ -7,7 +7,7 @@ export default function Deploy() {
       name: 'Customer Support Assistant', 
       model: 'Customer Support-LLaMA-FT', 
       status: 'Active',
-      endpoint: 'api.h2o.ai/llm/cs-assistant',
+      endpoint: 'api.forezy.ai/llm/cs-assistant',
       requests: '15.2k',
       latency: '145ms',
       createdAt: '2025-04-15'
@@ -17,7 +17,7 @@ export default function Deploy() {
       name: 'Legal Document Analyzer', 
       model: 'Legal-Mistral-FT', 
       status: 'Active',
-      endpoint: 'api.h2o.ai/llm/legal-analyzer',
+      endpoint: 'api.forezy.ai/llm/legal-analyzer',
       requests: '8.7k',
       latency: '178ms',
       createdAt: '2025-04-10'

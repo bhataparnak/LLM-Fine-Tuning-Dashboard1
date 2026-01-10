@@ -8,13 +8,14 @@ export default function Header() {
         <div className="flex justify-between items-center py-4">
           <div className="flex items-center">
             <Link href="/" className="flex items-center">
-              <img src="/api/placeholder/48/48" alt="H2O.ai Logo" className="h-8 w-auto" />
-              <span className="ml-2 text-xl font-bold text-h2o-blue">H2O.ai LLM Studio</span>
-            </Link>
+              {/* <img src="/api/placeholder/48/48" alt="H2O.ai Logo" className="h-8 w-auto" /> */}
+              <span className="ml-2 text-xl font-bold text-h2o-blue">Forezy.ai LLM Studio</span>
+            </Link> 
           </div>
+          
           <div className="flex items-center">
             <button className="btn btn-primary mr-4">New Project</button>
-            <img src="/api/placeholder/40/40" alt="User" className="h-8 w-8 rounded-full" />
+            {/* <img src="/api/placeholder/40/40" alt="User" className="h-8 w-8 rounded-full" /> */}
           </div>
         </div>
       </div>
