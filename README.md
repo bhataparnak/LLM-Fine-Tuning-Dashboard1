@@ -11,3 +11,8 @@ To run the app: - npm i
 npm start
 
 npm run dev
+
+<img width="959" height="502" alt="Dashboard1-1" src="https://github.com/user-attachments/assets/97f89ff1-a2ae-4256-9b53-4a1c5c0d98b6" />
+
+
+
